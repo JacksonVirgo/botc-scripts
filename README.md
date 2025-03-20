@@ -1,4 +1,6 @@
-# botc-scripts
+# BotC Scripts
+
+A compilation of the scripts I've made/contributed to
 
 ## Full Scripts
 
